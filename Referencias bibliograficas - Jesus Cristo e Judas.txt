@@ -1,0 +1,85 @@
+https://digital.br.synnex.com/virtualizacao-de-servidores-como-funciona-e-quais-as-vantagens
+23/05/2021 -> Synnex Westcon-Comstor, in Virtualização de Servidores
+
+https://vertigo.com.br/5-vantagens-de-usar-software-open-source/
+23/05/2021 -> Vertigo, in Vantagens de Open Source
+
+https://fourcornerstone.com/oracle-vm-virtualbox-benefits-features/
+23/05/2021 -> FourCornerstone, in ORACLE VM VIRTUALBOX BENEFITS AND FEATURES SEP 27, 2013
+
+https://techgenix.com/virtualbox-virtualization-management/
+
+23/05/2021 -> Benjamin Roussey, in HERE’S WHY VIRTUALBOX IS A FANTASTIC VIRTUALIZATION MANAGEMENT TOOL JANUARY 4, 2017
+
+https://www.controle.net/faq/o-que-e-snapshot
+23/05/2021 -> Controle Net, in Snapshot: Um retrato instantâneo de aplicações e telas
+
+https://www.sciencedirect.com/topics/computer-science/server-manager
+23/05/2021 -> Aaron Tiensivu, in Securing Windows Server 2008
+
+https://www.gnu.org/software/grub/
+23/05/2021 -> Daniel Kiper, in GNU GRUB
+
+https://www.lepide.com/blog/what-is-active-directory-and-how-does-it-work/
+23/05/2021 -> Lepide Home, in What Is Active Directory and How Does It Work?
+
+https://www.hostpapa.ca/blog/web-hosting/dns-what-it-is-and-why-you-need-it/
+24/05/2021 -> María Bustillos, in DNS: What It Is and Why You Need It May 25, 2021
+
+https://www.efficientip.com/what-is-dhcp-and-why-is-it-important/
+28/05/2021 -> efficientIP, in Dynamic Host Configuration Protocol
+
+https://www.thousandeyes.com/learning/techtorials/ipv4-vs-ipv6
+28/05/2021 -> ThousandEyes, in IPV4 vs. IPV6
+
+https://www.windows-active-directory.com/fundamentals-of-active-directory-workgroups-and-domains.html
+03/06/2021 -> in Fundamentals of Active Directory, workgroups and domains
+
+https://networkencyclopedia.com/netbios-name/#:~:text=NetBIOS%20Name%20is%20a%2016,NetBIOS%2Denabled%20services%20and%20applications.
+03/06/2021 -> Network Encyclopedia, in NetBIOS Name
+
+https://www.varonis.com/blog/active-directory-domain-services/
+03/06/2021 -> Jeff Peters, in Active Directory Domain Services (AD DS): Overview and Functions 29/03/2020
+
+https://comoaprenderwindows.com.br/active-directory/o-que-e-politica-de-grupo-ou-group-policy-no-windows/
+04/06/2021 -> Leonardo Duarte, in O que é politica de grupo ou group policy no Windows? 28/08/2017
+
+https://www.somosagility.com.br/cota-de-armazenamento-por-pasta-no-windows-server-2008/
+05/06/2021 -> Somos Agility, in Cota de armazenamento por pasta no Windows Server 2008 16/12/2015
+
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831725(v=ws.11)
+11/06/2021 -> Microsoft, in Web Server (IIS) Overview 31/08/2016
+
+https://www.profissionaisti.com.br/auditoria-como-o-windows-server-pode-te-ajudar/
+11/06/2021 -> Laerte Costa, in Auditoria em Servidor: como o Windows Server pode te ajudar 09/04/2012
+
+http://edpestisegura.blogspot.com/2017/07/aplicacao-de-permissoes-pastas-e.html
+12/06/2021 -> Edson Pessotti, in Aplicação de permissões a pastas e Arquivos no Windows 18/07/2017
+
+https://help.ubuntu.com/lts/installation-guide/s390x/ch01s02.html
+13/06/2021 -> 1.2. What is Debian?
+
+https://www.techtudo.com.br/noticias/noticia/2015/03/linux-tudo-o-que-voce-precisa-saber-antes-de-comecar-usar.html
+13/06/2021 -> João Kurtz, in Linux: Tudo o que você precisa saber antes de começar a usar 24/03/2015
+
+https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it
+13/06/2021 -> UCL, in What is SSH and how do I use it?
+
+https://kinsta.com/knowledgebase/what-is-wordpress/
+17/06/2021 -> Kinsta, in What is WordPress? Explained for Begginers, 27/04/2021
+
+https://www.redhat.com/en/topics/linux/what-is-linux#:~:text=Linux%C2%AE%20is%20an%20open,resources%20that%20do%20the%20work.
+17/06/2021 -> RedHat, in What is Linux?
+
+https://docs.iredmail.org/install.iredmail.on.debian.ubuntu.html
+19/06/2021 -> iRedMail, in Install iRedMail on Debian or Ubuntu Linux
+
+https://gatefy.com/blog/what-is-mail-server/
+22/06/2021 -> Gatefy, in What is mail server? 21/06/2021
+
+https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/
+22/06/2021 -> Checkpoint, in What is a Firewall?
+
+https://servidordebian.org/pt/buster/security/firewall/ufw
+22/06/2021 -> Servidor Debian, in 7.4.1 UFW
+
